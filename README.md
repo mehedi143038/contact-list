@@ -9,7 +9,7 @@
 These are the main topics which will be discussed and explained here.
 
 - [Description](#description)
-- [Technologies](#how-to-use)
+- [Technologies](#technologies)
 - [License](#license)
 - [Author Info](#author-info)
 
@@ -28,7 +28,7 @@ Then go to the root path to see the created data which are read from the Indexed
 - Front end -ReactJS
 - DB - IndexedDB from Chrome
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#contact-information-application)
 
 ---
 
@@ -64,4 +64,4 @@ SOFTWARE.
 - Email: millathasan125@gmail.com
 - phone: 01765753030
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#contact-information-application)
