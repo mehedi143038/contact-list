@@ -9,8 +9,7 @@
 These are the main topics which will be discussed and explained here.
 
 - [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
+- [Technologies](#how-to-use)
 - [License](#license)
 - [Author Info](#author-info)
 
