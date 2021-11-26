@@ -34,9 +34,7 @@ Then go to the root path to see the created data which are read from the Indexed
 
 ## License
 
-MIT License
-
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2021] [Mehedi Hasan]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
